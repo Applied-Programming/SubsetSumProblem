@@ -1,1 +1,1 @@
-# SubsetSumProblem
+# Subset-Sum Problem
